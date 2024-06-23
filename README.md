@@ -1,0 +1,1 @@
+the script lets AI-agents ask the human a discussion topic, they discuss among themselves and then ask the human for feedback. The human can abort the process by 'exit'. In order to run this script successfully, do pip install pyautogen openai. The framework used is Autogen.
